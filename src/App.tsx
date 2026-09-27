@@ -263,7 +263,7 @@ function App() {
           <div className="mx-auto max-w-7xl">
             <div className="reveal mx-auto max-w-2xl text-center">
               <p className="mb-4 text-xs font-bold uppercase tracking-[0.25em] text-[#8c182c]">Nos cycles scolaires</p>
-              <h2 className="text-4xl font-bold tracking-[-0.03em] text-[#272429] sm:text-5xl">De la maternelle au lycée,<br /><span className="text-[#8c182c]">un parcours complet.</span></h2>
+              <h2 className="text-4xl font-bold tracking-[-0.03em] text-[#272429] sm:text-5xl">Du collège au lycée,<br /><span className="text-[#8c182c]">un parcours complet.</span></h2>
               <p className="mt-5 text-sm leading-7 text-[#756b70]">Chaque cycle est pensé pour accompagner l'élève à son rythme, du premier éveil jusqu'à la préparation des examens.</p>
             </div>
             <div className="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -454,7 +454,7 @@ function App() {
                 </div>
               </div>
               <p className="mt-5 max-w-xs text-sm leading-6 text-white/60">
-                Un établissement à Thiès qui accompagne chaque apprenant de la maternelle au lycée vers la réussite et l'épanouissement.
+                Un établissement à Thiès qui accompagne chaque apprenant du collège au lycée vers la réussite et l'épanouissement.
               </p>
               <div className="mt-6 flex items-center gap-3">
                 <a href="#" aria-label="Facebook" className="flex h-10 w-10 items-center justify-center rounded-xl bg-white/5 text-white/70 transition hover:bg-[#8c182c] hover:text-white"><Facebook size={18} /></a>
